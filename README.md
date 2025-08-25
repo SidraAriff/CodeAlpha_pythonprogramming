@@ -17,7 +17,6 @@ A classic word-guessing game where the player must guess letters to reveal the h
 --------------------------------------------------------------------------------------------
 # Hangman in Python
 import random
-
 hangman_art = {0: ("   ",
                                    "   ",
                                    "   "),
