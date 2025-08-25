@@ -40,5 +40,4 @@ A beginner-friendly chatbot that uses rule-based logic to respond to user inputs
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-mini-projects.git
-   cd python-mini-projects
+   git clone (https://github.com/SidraAriff/CodeAlpha_pythonprogramming.git)s
