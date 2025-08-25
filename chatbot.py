@@ -12,11 +12,12 @@ def chatbot():
         elif "how are you" in user_input:
             print("ChatPy: I'm just a program, but I'm doing fine. Thanks!")
         elif "your name" in user_input:
-            print("ChatPy: I'm ChatPy, your friendly chatbot!")
-        elif "help" in user_input or "ask" in user_input
-            print("ChatPy: Sure! Ask me anything about Python or general questions.")
+            print("ChatPy: I'm ChatPy, your AI Friend!")
+        elif "help" in user_input or "ask" in user_input:
+            print("ChatPy:Hey I cant Help You at this Moment as i am just a basic Chatbot.")
         else:
-            print("ChatPy: I'm sorry, I don't understand that yet.")
+            print("ChatPy:Sorry i am not trained to answer this as far now.")
 
-# Run the chatbot
+# run the code
 chatbot()
+
